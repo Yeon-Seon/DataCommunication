@@ -1,3 +1,3 @@
-# DataCommunication
+# 데이터 통신
 
 2019-2 데이터통신 실습
